@@ -1,0 +1,1 @@
+export const BACKEND_URL ="https://medium.aditya-pandey-31a.workers.dev"
